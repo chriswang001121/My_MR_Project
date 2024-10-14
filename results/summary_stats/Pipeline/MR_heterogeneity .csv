@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"KOWEMy","SCC","SCC","exposure","MR Egger",8.16481246720313,7,0.318285623582501
+"KOWEMy","SCC","SCC","exposure","Inverse variance weighted",8.17811386629636,8,0.416267800102123

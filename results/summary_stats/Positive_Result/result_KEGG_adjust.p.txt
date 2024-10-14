@@ -1,0 +1,13 @@
+category	subcategory	ID	Description	GeneRatio	BgRatio	pvalue	p.adjust	qvalue	geneID	Count
+Environmental Information Processing	Signal transduction	hsa04014	Ras signaling pathway	4/18	238/8842	0.00116320897698856	0.0745281761711381	0.0669701197943475	INSR/PDGFRB/KDR/PLA2G12B	4
+Human Diseases	Cardiovascular disease	hsa05418	Fluid shear stress and atherosclerosis	3/18	141/8842	0.00271769765287721	0.0745281761711381	0.0669701197943475	GSTM1/VCAM1/KDR	3
+Environmental Information Processing	Signal transduction	hsa04010	MAPK signaling pathway	4/18	300/8842	0.002726640591627	0.0745281761711381	0.0669701197943475	INSR/PDGFRB/KDR/MAPKAPK5	4
+Environmental Information Processing	Signal transduction	hsa04630	JAK-STAT signaling pathway	3/18	168/8842	0.00445691785755508	0.0913668160798791	0.0821011184286462	CSF2RA/PDGFRB/IL23R	3
+Environmental Information Processing	Signal transduction	hsa04015	Rap1 signaling pathway	3/18	212/8842	0.00849956356871288	0.139392842526891	0.125256726275769	INSR/PDGFRB/KDR	3
+Human Diseases	Drug resistance: antineoplastic	hsa01521	EGFR tyrosine kinase inhibitor resistance	2/18	80/8842	0.0112606845057622	0.153896021578749	0.1382891079655	PDGFRB/KDR	2
+Metabolism	Metabolism of cofactors and vitamins	hsa00730	Thiamine metabolism	1/18	15/8842	0.0301282690203746	0.256772249464615	0.230732444961785	ALPI	1
+Environmental Information Processing	Signal transduction	hsa04151	PI3K-Akt signaling pathway	3/18	362/8842	0.0351678903563034	0.256772249464615	0.230732444961785	INSR/PDGFRB/KDR	3
+Environmental Information Processing	Signal transduction	hsa04072	Phospholipase D signaling pathway	2/18	149/8842	0.0361745613515246	0.256772249464615	0.230732444961785	INSR/PDGFRB	2
+Metabolism	Global and overview maps	hsa01240	Biosynthesis of cofactors	2/18	153/8842	0.0379678024332654	0.256772249464615	0.230732444961785	SHMT1/ALPI	2
+Metabolism	Metabolism of cofactors and vitamins	hsa00670	One carbon pool by folate	1/18	20/8842	0.0399790459039134	0.256772249464615	0.230732444961785	SHMT1	1
+Metabolism	Glycan biosynthesis and metabolism	hsa00534	Glycosaminoglycan biosynthesis - heparan sulfate / heparin	1/18	24/8842	0.0477915523430092	0.256772249464615	0.230732444961785	GLCE	1

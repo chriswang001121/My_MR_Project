@@ -4,18 +4,19 @@
 *.vcf
 
 # 忽略所有/data/raw路径下的文件
-./data/raw/
+data/raw/
 
 # 忽略虚拟环境
-.venv/
+venv/
 
-# 忽略R 项目缓存文件：
+# 忽略R 项目缓存文件
 .Rhistory
 .Rproj.user/
 
 # 忽略二进制文件
-.bim
-.bed
-.fam
+*.bim
+*.bed
+*.fam
 
-
+# 忽略指定文件
+data/processed/uk_biobank_posTosid.csv
