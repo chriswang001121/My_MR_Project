@@ -9,29 +9,6 @@ My_MR_Project 是一个用于执行 **孟德尔随机化（Mendelian Randomizati
 ## 目录结构
 
 ```
-My_MR_Project/
-├── config/                      # 配置文件
-│   ├── config.yaml              # 通用配置文件
-│   └── data_paths.yaml          # 数据路径的配置文件
-├── data/                        # 数据存储
-│   ├── raw/                     # 原始数据
-│   └── processed/               # 处理后的数据
-├── scripts/                     # 脚本和代码
-│   ├── data_preprocessing.py    # 数据预处理脚本
-│   ├── single_var_mr.py         # 单变量 MR 分析
-│   ├── multi_var_mr.py          # 多变量 MR 分析
-│   └── mr_plotting.py           # 可视化脚本
-├── results/                     # 存储分析结果
-│   ├── figures/                 # 图表
-│   └── summary_stats/           # 统计结果
-├── docs/                        # 文档
-│   └── README.md                # 项目说明文档
-├── tests/                       # 测试代码
-├── .gitignore                   # Git 忽略文件
-├── requirements.txt             # 项目依赖
-└── LICENSE                      # 项目许可证
-```
-
 ## 安装步骤
 
 1. **克隆项目仓库**
@@ -40,7 +17,6 @@ My_MR_Project/
 
    ```bash
    git clone https://github.com/your-username/My_MR_Project.git
-```
 
 2. **创建并激活虚拟环境**
 
