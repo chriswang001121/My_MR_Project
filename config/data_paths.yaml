@@ -1,1 +1,6 @@
-# 数据路径的配置文件
+paths:
+  plink_bfile_path: "F:/Projects/My_MR_Project/data/raw/plink_ref/data_maf0.01_rs_ref"
+  plink_bin_path: "F:/Projects/My_MR_Project/tools/plink_win64_20231018/plink.exe"
+  exposure_file_path: "F:/Projects/My_MR_Project/data/raw/6895_1_TFRC_TR.txt.gz"
+  pos_to_rsid_path: "F:/Projects/My_MR_Project/data/processed/uk_biobank_posTosid.csv"
+

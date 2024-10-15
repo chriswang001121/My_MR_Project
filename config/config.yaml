@@ -1,1 +1,9 @@
-# 通用配置文件
+params:
+  clump_kb: 10000
+  clump_r2: 0.001
+  clump_p: 1
+  pval_threshold: 5e-08
+  maf_threshold: 0.01
+  exposure_name: "TFRC Protein"
+  exposure_id: "TFRC_ID"
+
